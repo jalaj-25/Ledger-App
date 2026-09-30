@@ -1,0 +1,10 @@
+customtkinter
+reportlab
+openpyxl
+pandas
+matplotlib
+pillow
+selenium
+tkcalendar
+babel
+pypdf2
